@@ -1,0 +1,23 @@
+.title {
+  text-align: center;
+  color: gray;
+  line-height: 1.25; }
+  .title h1 {
+    font-size: 4rem; }
+  .title h2 {
+    font-size: 2rem; }
+  .title h3 {
+    font-size: 1.5rem; }
+
+.dots .dot {
+  width: 8px;
+  height: 9px;
+  background: gray;
+  border-radius: 50%;
+  cursor: pointer;
+  margin-left: 1%;
+  -webkit-transition: background .3s ease;
+  -o-transition: background .3s ease;
+  transition: background .3s ease; }
+  .dots .dot:hover {
+    background: blue; }
