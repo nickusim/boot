@@ -1,13 +1,13 @@
 .title {
   text-align: center;
   color: gray;
-  line-height: 1.25; }
+  line-height: 1; }
   .title h1 {
-    font-size: 4rem; }
+    font-size: 2.5rem; }
   .title h2 {
-    font-size: 2rem; }
+    font-size: 1.7rem; }
   .title h3 {
-    font-size: 1.5rem; }
+    font-size: 1.2rem; }
 
 .dots .dot {
   width: 8px;
